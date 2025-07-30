@@ -1,3 +1,9 @@
 [submodule "pyt"]
 	path = pyt
 	url = https://github.com/python-security/pyt.git
+[submodule "juice-shop"]
+	path = juice-shop
+	url = https://github.com/juice-shop/juice-shop.git
+[submodule "vulnado"]
+	path = vulnado
+	url = https://github.com/ScaleSec/vulnado.git
